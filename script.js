@@ -30,8 +30,18 @@
 // console.log(addition(8));
 
 // function howManySeconds(hours) {
-// 	return (hours * 60)*60
+// 	return (hours * 60)*60bhds
+// }nkdsf
+// function check(a, x) {
+//    return (a.includes(x)) ? true : false
 // }
+// console.log(check(['apple', 'orange', 'lemon', "kata"], 'lem'));
+
+// let arr = [1,2,3,5]
+// arr.splice(3,0,4)
+// console.log(arr);
+
+
 // console.log(howManySeconds(2));
 
 // function numberToString(num) {
@@ -49,3 +59,10 @@
 // console.log(arr);
 
 
+// function makeNegative(num) {
+//     let result = num === 0 ? 0 : Number("-" + num) 
+//     let res = num <= 0 ? num : Number("-" + num)
+//     result = res
+//     return  result
+// }
+// console.log(makeNegative(0.9));
