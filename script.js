@@ -66,3 +66,4 @@
 //     return  result
 // }
 // console.log(makeNegative(0.9));
+console.log('lkjhbv');
